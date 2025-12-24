@@ -1,0 +1,7 @@
+{
+  "name": "DineSA - Book & Save",
+  "description": "Premium restaurant discovery and table booking platform for South Africa's vibrant food scene. Find exclusive deals, get AI-powered recommendations, and reserve your spot at the best local gems.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
